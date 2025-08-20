@@ -1,2 +1,2 @@
-# alga2_dados
-Arquivos da disciplina de Álgebra Linear e Geometria Analítica
+# rdi
+Arquivos da disciplina de Recuperação da Informação
